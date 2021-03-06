@@ -1,0 +1,40 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: ghostwhite;
+}
+
+h1 {
+  color: darkblue;
+  text-align: center;
+}
+
+h2 {
+  color: blue;
+  text-align: center;
+}
+
+p {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  width: 1000px;
+  margin: 0 auto;
+}
+
+table {
+  border: 2px solid darkorchid;
+  width: 1000px;
+  margin: 0 auto;
+}
+
+thead {
+  background-color: white;
+}
+
+td {
+  border: 1px solid darkorchid;
+}
+
+.code {
+  font-family: monospace;
+  background-color: white;
+}
